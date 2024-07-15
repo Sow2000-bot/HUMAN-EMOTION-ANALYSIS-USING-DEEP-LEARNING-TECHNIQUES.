@@ -1,7 +1,7 @@
 # HUMAN-EMOTION-ANALYSIS-USING-DEEP-LEARNING-TECHNIQUES.
 
 ## Project Overview
-This project, titled **"Human Emotion Analysis Using Deep Learning Techniques,"** aims to recognize human emotions through facial expressions using advanced deep learning algorithms. The project was developed by **Buraju Sowmya** under the guidance of **Dr. Shubhangi Urkude** as part of the academic requirements at the Department of Computer Science & Technology, ICFAI Foundation for Higher Education.
+This project, titled **"Human Emotion Analysis Using Deep Learning Techniques,"** aims to recognize human emotions through facial expressions using advanced deep learning algorithms. The project was developed by **Buruju Sowmya** under the guidance of **Dr. Shubhangi Urkude** as part of the academic requirements at the Department of Computer Science & Technology, ICFAI Foundation for Higher Education.
 
 ## Project Description
 The project involves the development of a system that can accurately detect and classify human emotions from facial expressions. The system utilizes various deep learning techniques, including convolutional neural networks (CNNs) and support vector machines (SVMs), to analyze and interpret facial features.
